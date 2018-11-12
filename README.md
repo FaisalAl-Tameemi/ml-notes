@@ -1,5 +1,10 @@
 # Notes
 
+### Articles
+
+__[Review DL Networks](https://medium.com/comet-app/review-of-deep-learning-algorithms-for-object-detection-c1f3d437b852)__
+
+
 ### Resources
 
 __[Classifier Evaluation](https://www.ritchieng.com/machine-learning-evaluate-classification-model/)__
