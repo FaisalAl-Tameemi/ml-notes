@@ -12,3 +12,4 @@ __[Object Detection Review](https://medium.com/comet-app/review-of-deep-learning
 
 __[General Resources](https://www.ritchieng.com/machine-learning-resources/)__
 
+__[Deep Learning Networks](https://github.com/tensorflow/models/tree/master/research/slim/nets)__
