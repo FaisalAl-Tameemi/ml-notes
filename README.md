@@ -2,18 +2,13 @@
 
 ### Resources
 
-__Classifier Evaluation__
-https://www.ritchieng.com/machine-learning-evaluate-classification-model/
+__[Classifier Evaluation](https://www.ritchieng.com/machine-learning-evaluate-classification-model/)__
 
-__Automatic ML Pipeline search__
-https://epistasislab.github.io/tpot/
+__[Automatic ML Pipeline search](https://epistasislab.github.io/tpot/)__
 
-__NLP Tokenization__
-http://www.nltk.org/api/nltk.tokenize.html
+__[NLP Tokenization](http://www.nltk.org/api/nltk.tokenize.html)__
 
-__Object Detection Review__
-https://medium.com/comet-app/review-of-deep-learning-algorithms-for-object-detection-c1f3d437b852
+__[Object Detection Review](https://medium.com/comet-app/review-of-deep-learning-algorithms-for-object-detection-c1f3d437b852)__
 
-__General Resources__
-https://www.ritchieng.com/machine-learning-resources/
+__[General Resources](https://www.ritchieng.com/machine-learning-resources/)__
 
