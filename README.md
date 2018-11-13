@@ -4,6 +4,7 @@
 
 __[Review DL Networks](https://medium.com/comet-app/review-of-deep-learning-algorithms-for-object-detection-c1f3d437b852)__
 
+__[Global Avg Pooling - Object Localization](https://alexisbcook.github.io/2017/global-average-pooling-layers-for-object-localization/)__
 
 ### Resources
 
